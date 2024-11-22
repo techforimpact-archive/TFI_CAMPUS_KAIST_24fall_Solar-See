@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/KAIST-220V/project-solar-see-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/KAIST-220V/project-solar-see-frontend.git
+[submodule "machine_learning"]
+	path = machine_learning
+	url = https://github.com/KAIST-220V/Mask-RCNN_TF2.14.0.git
+[submodule "coordinate_converter"]
+	path = coordinate_converter
+	url = https://github.com/KAIST-220V/map-converter.git
