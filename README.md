@@ -98,7 +98,7 @@ QR 코드를 스캔하여 접속할 수 있습니다.
 | 이중권 | EE, KAIST | 2jungg@kaist.ac.kr | 2jungg | 지도 패널 정보, 게임 인트로, 게임 플레이 기능 |
 | 김현수 | SoC, KAIST | skykhs3@kaist.ac.kr | skykhs3 | AI, YOLO11 기반 Image Segmentation 모델 학습,  RESTful API 설계, 데이터베이스 스키마 설계, DNS 설정, 항공사진 이미지 가공, Django RESTful API 서버 구현, Frontend 디자인 수정 및 버그 수정, Frontend CI/CD 구축, Frontend 배포, Backend 배포 |
 | 박은비 | SoC, KAIST | kelly030813@kaist.ac.kr | qkrdmsql | 지도 설계, 게임 클레임, API 통신, UX 개선 |
-| 유권우 | SoC, KAIST | - | - | - |
+| 유권우 | SoC, KAIST | rnjsdn1003@kaist.ac.kr | KingsFavor | - |
 | 이혜리 | SoC, KAIST | harriet@kaist.ac.kr | hye-ilee | 항공사진 수집, 지도 이동, 게임 채점 및 랭킹, UX 개선 |
-| 임채민 | SoC, KAIST | - | - | - |
+| 임채민 | SoC, KAIST | killerwhalee@kaist.ac.kr | killerwhalee | - |
 | 표승화 | ID, KAIST | shpyo@kaist.ac.kr | hu9eswan | 로고 제작, 모바일 UI, UX Writing, 발표 자료 제작 |
