@@ -9,7 +9,7 @@
 ### 빠르게 시작하기
 모바일에서 **[Solar-See 바로가기](https://solar-see.site)**  
 QR 코드를 스캔하여 접속할 수 있습니다.  
-<img src="https://github.com/user-attachments/assets/4767162c-65f0-4b90-8ed9-e75b9d93d987" alt="QR Code" style="width:25%"/>
+<img src="https://github.com/user-attachments/assets/5f1a69bf-6aa5-48fe-ace0-e10757c47aea" alt="QR Code" style="width:25%"/>
 
 ---
 
