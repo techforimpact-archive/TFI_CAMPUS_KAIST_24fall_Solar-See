@@ -10,3 +10,6 @@
 [submodule "coordinate_converter"]
 	path = coordinate_converter
 	url = https://github.com/KAIST-220V/map-converter.git
+[submodule "machine_learning_yolo11"]
+	path = machine_learning_yolo11
+	url = https://github.com/KAIST-220V/YOLO11.git
