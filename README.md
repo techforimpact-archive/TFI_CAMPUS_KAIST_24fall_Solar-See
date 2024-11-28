@@ -100,5 +100,5 @@ QR 코드를 스캔하여 접속할 수 있습니다.
 | 박은비 | SoC, KAIST | kelly030813@kaist.ac.kr | qkrdmsql | 지도 설계, 게임 클레임, API 통신, UX 개선 |
 | 유권우 | SoC, KAIST | rnjsdn1003@kaist.ac.kr | KingsFavor | - |
 | 이혜리 | SoC, KAIST | harriet@kaist.ac.kr | hye-ilee | 항공사진 수집, 지도 이동, 게임 채점 및 랭킹, UX 개선 |
-| 임채민 | SoC, KAIST | killerwhalee@kaist.ac.kr | killerwhalee | AI, Mask-RCNN 기반 Image Segmentation 모델 학습, 학습 결과 데이터 수집 및 가공, 배포 환경 구축 및 설정, 서버 데이터 관리 |
+| 임채민 | SoC, KAIST | killerwhalee@kaist.ac.kr | [killerwhalee](https://github.com/killerwhalee) | AI, Mask-RCNN 기반 Image Segmentation 모델 학습, 학습 결과 데이터 수집 및 가공, 배포 환경 구축 및 설정, 서버 데이터 관리 |
 | 표승화 | ID, KAIST | shpyo@kaist.ac.kr | hu9eswan | 로고 제작, 모바일 UI, UX Writing, 발표 자료 제작 |
