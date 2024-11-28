@@ -94,7 +94,7 @@ QR 코드를 스캔하여 접속할 수 있습니다.
 ## 팀원 소개
 
 | 이름 | 소속 | 이메일 | Github ID | 역할 |
-|------|------|--------|-----------|------|
+|---------|------|--------|-----------|------|
 | 이중권 | EE, KAIST | 2jungg@kaist.ac.kr | 2jungg | 지도 패널 정보, 게임 인트로, 게임 플레이 기능 |
 | 김현수 | SoC, KAIST | skykhs3@kaist.ac.kr | skykhs3 | AI, YOLO11 기반 Image Segmentation 모델 학습,  RESTful API 설계, 데이터베이스 스키마 설계, DNS 설정, 항공사진 이미지 가공, Django RESTful API 서버 구현, Frontend 디자인 수정 및 버그 수정, Frontend CI/CD 구축, Frontend 배포, Backend 배포 |
 | 박은비 | SoC, KAIST | kelly030813@kaist.ac.kr | qkrdmsql | 지도 설계, 게임 클레임, API 통신, UX 개선 |
