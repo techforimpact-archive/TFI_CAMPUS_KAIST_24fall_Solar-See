@@ -16,21 +16,21 @@ https://solar-see.site
 
 ## 풀고자 하는 사회 문제 정의
 
-### 1. 신재생에너지는 지속가능한 지구를 위한 필수불가결한 존재예요
+1. 신재생에너지는 지속가능한 지구를 위한 필수불가결한 존재예요<br>
 
 신재생에너지는 깨끗한 에너지로, 지구의 환경오염을 줄이고 반영구적인 발전이 가능한 에너지원이에요
 
-### 2. 신재생에너지를 이용한 발전소는 끄기 쉽다는 이유로 전력 수요 예측에 실패 시 계속 꺼지고 있어요
+2. 신재생에너지를 이용한 발전소는 끄기 쉽다는 이유로 전력 수요 예측에 실패 시 계속 꺼지고 있어요<br>
 
 화력 발전소와 원자력 발전소는 끄기 어렵기 때문에 만만한 신재생에너지가 피해를 보고 있어요
 
-### 3. 전력 수요 예측을 어렵게 만드는 원인 중 하나가 바로 비계량 태양광 패널이에요
+3. 전력 수요 예측을 어렵게 만드는 원인 중 하나가 바로 비계량 태양광 패널이에요<br>
 
 비계량 태양광 패널은 발전량이 계측되지 않는 태양광 패널로, 전력 피크 시간대의 11%나 차지해요
 
 이러한 패널 때문에 전력 수요를 정확히 예측하는데 어려움을 겪고 있어요
 
-### 4. 저희 Team 220V는 SolarSee 프로젝트를 통해 전국에 숨어있는 태양광 패널을 찾아 전력 수요 예측에 도움을 줄 거예요
+4. 저희 Team 220V는 SolarSee 프로젝트를 통해 전국에 숨어있는 태양광 패널을 찾아 전력 수요 예측에 도움을 줄 거예요<br>
 
 전국의 모든 비계량 태양광 패널을 찾을 수 있다면 전력 수요 예측 가능성을 높이고, 결과적으로 신재생 에너지의 확산에 도움을 줄 수 있을 거예요
 
@@ -62,9 +62,10 @@ https://solar-see.site
 
 ### Clone Repositories
 
-~~~
+```bash
 git clone --recurse-submodules https://github.com/tech-for-impact/Solar-See_2024.git
-~~~
+cd frontend && git pull && cd ../backend && git pull && cd ..
+```
 
 ### 설치 방법
 
@@ -76,14 +77,45 @@ git clone --recurse-submodules https://github.com/tech-for-impact/Solar-See_2024
 
 ## 레퍼런스
 
-AI 개발 시 참고 레포
+### 1. AI 개발 시 참고 레포
 
 [YOLO11 🚀 신규](https://docs.ultralytics.com/ko/models/yolo11/)
 
 https://github.com/z-mahmud22/Mask-RCNN_TF2.14.0
 
-항공사진 출처: 국토지리정보원
+### 2. 항공사진 출처
 
-<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/cb0cb96e-83d1-484f-ac29-0d255e9c37eb/5384761d-f7fb-4612-9eab-08368c2a4af7/image.png" style="width:25%"/>
+국토지리정보원
+
+### 3. 패널 학습 데이터
 
 태양광 패널 trainset 출처: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71348
+
+### 연관 자료
+
+https://biz.chosun.com/policy/policy_sub/2023/08/14/3BSO4UXWRJB5LNNHYN6WCY3ODM/
+
+https://www.newsis.com/view/NISX20240814_0002850758
+
+https://www.khan.co.kr/economy/industry-trade/article/202108042040015
+
+최종 발표 자료 링크
+
+https://www.figma.com/deck/TuZtQY16UshgZwb02bLiwv
+
+펠로우 조직 사이트
+
+https://60hz.io/
+
+## 팀원 및 멘토&펠로우 소개
+
+
+|이름(Name)|소속(Department)|이메일(E-mail)|Github ID|역할(Role)|
+|---|---|---|---|---|
+|이중권|EE, KAIST|2jungg@kaist.ac.kr|~~~|지도 패널 정보 창, 게임 인트로 화면, 게임 플레이 기능|
+|김현수|SoC, KAIST|~~~|~~~|AI, Frontend, Backend, CI/CD|
+|박은비|SoC, KAIST|kelly030813@kaist.ac.kr|qkrdmsql|지도 화면 설계, 게임 클레임 기능, api 통신, 프론트엔드 로직 개선, UX 개선|
+|유권우|SoC, KAIST|~~~|~~~|~~~|
+|이혜리|SoC, KAIST|harriet@kaist.ac.kr|hye-ilee|항공사진 수집, 지도 구 이동 기능, 게임 채점 기능, 게임 랭킹 기능, UX 개선, 회의록 작성|
+|임채민|SoC, KAIST|~~~|~~~|~~~|
+|표승화|ID, KAIST|shpyo@kaist.ac.kr|hu9eswan|로고 제작, 지도 모바일 UI, 게임 모바일 UI, UX Writing, 발표 자료 제작|
