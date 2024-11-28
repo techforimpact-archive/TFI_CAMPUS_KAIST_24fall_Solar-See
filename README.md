@@ -84,6 +84,6 @@ https://github.com/z-mahmud22/Mask-RCNN_TF2.14.0
 
 항공사진 출처: 국토지리정보원
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/cb0cb96e-83d1-484f-ac29-0d255e9c37eb/5384761d-f7fb-4612-9eab-08368c2a4af7/image.png)
+<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/cb0cb96e-83d1-484f-ac29-0d255e9c37eb/5384761d-f7fb-4612-9eab-08368c2a4af7/image.png" style="width:25%"/>
 
 태양광 패널 trainset 출처: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71348
