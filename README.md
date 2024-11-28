@@ -113,7 +113,7 @@ https://60hz.io/
 |이름(Name)|소속(Department)|이메일(E-mail)|Github ID|역할(Role)|
 |---|---|---|---|---|
 |이중권|EE, KAIST|2jungg@kaist.ac.kr|2jungg|지도 패널 정보 창, 게임 인트로 화면, 게임 플레이 기능|
-|김현수|SoC, KAIST|skykhs3@kaist.ac.kr|skykhs3|AI, Frontend, Backend, CI/CD|
+|김현수|SoC, KAIST|skykhs3@kaist.ac.kr|skykhs3|YOLO11 기반 Image Segmentation 모델 학습,  RESTful API 설계, 데이터베이스 스키마 설계, DNS 설정, 항공사진 이미지 가공, Django RESTful API 서버 구현, Frontend 디자인 수정 및 버그 수정, Frontend CI/CD 구축, Frontend 배포, Backend 배포|
 |박은비|SoC, KAIST|kelly030813@kaist.ac.kr|qkrdmsql|지도 화면 설계, 게임 클레임 기능, api 통신, 프론트엔드 로직 개선, UX 개선|
 |유권우|SoC, KAIST|~~~|~~~|~~~|
 |이혜리|SoC, KAIST|harriet@kaist.ac.kr|hye-ilee|항공사진 수집, 지도 구 이동 기능, 게임 채점 기능, 게임 랭킹 기능, UX 개선, 회의록 작성|
