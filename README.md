@@ -112,7 +112,7 @@ https://60hz.io/
 
 |이름(Name)|소속(Department)|이메일(E-mail)|Github ID|역할(Role)|
 |---|---|---|---|---|
-|이중권|EE, KAIST|2jungg@kaist.ac.kr|~~~|지도 패널 정보 창, 게임 인트로 화면, 게임 플레이 기능|
+|이중권|EE, KAIST|2jungg@kaist.ac.kr|2jungg|지도 패널 정보 창, 게임 인트로 화면, 게임 플레이 기능|
 |김현수|SoC, KAIST|~~~|~~~|AI, Frontend, Backend, CI/CD|
 |박은비|SoC, KAIST|kelly030813@kaist.ac.kr|qkrdmsql|지도 화면 설계, 게임 클레임 기능, api 통신, 프론트엔드 로직 개선, UX 개선|
 |유권우|SoC, KAIST|~~~|~~~|~~~|
