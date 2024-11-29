@@ -88,7 +88,9 @@
 
 ---
 
-## 팀원 소개 👥  
+## 팀 소개 👥  
+
+### 팀원
 
 | 이름       | 소속       | 이메일                | Github ID                         | 역할                     |  
 |------------|------------|-----------------------|-----------------------------------|--------------------------|  
@@ -99,6 +101,15 @@
 | 이혜리      | SoC, KAIST | harriet@kaist.ac.kr  | [hye-ilee](https://github.com/hye-ilee) | 프론트엔드 개발          |  
 | 임채민      | SoC, KAIST | killerwhalee@kaist.ac.kr | [killerwhalee](https://github.com/killerwhalee) | 백엔드 개발              |  
 | 표승화      | ID, KAIST  | shpyo@kaist.ac.kr    | [hu9eswan](https://github.com/hu9eswan) | UI/UX Writing, 발표 자료 제작 |  
+
+<br>
+
+### 멘토
+
+| 이름          | 소속       | 역할                |
+|---------------|------------|---------------------|
+| 김종규        | 60Hz       | 펠로우               |
+| 케니(나타나엘)| Kakao      | 멘토                 |
 
 <br>
 
@@ -204,3 +215,13 @@
 | Hyeri Lee    | SoC, KAIST   | harriet@kaist.ac.kr   | [hye-ilee](https://github.com/hye-ilee) | Frontend Developer         |  
 | Chaemin Lim  | SoC, KAIST   | killerwhalee@kaist.ac.kr | [killerwhalee](https://github.com/killerwhalee) | Backend Developer          |  
 | Seunghwa Pyo | ID, KAIST    | shpyo@kaist.ac.kr     | [hu9eswan](https://github.com/hu9eswan) | UI/UX Writing, Presentation Design |  
+
+
+<br>
+
+### Mentors
+
+| Name             | Affiliation | Role                |
+|------------------|-------------|---------------------|
+| Jongkyu Kim      | 60Hz        | Fellow              |
+| Kenny(Nathanael) | Kakao       | Mentor              |
