@@ -6,7 +6,7 @@
 	url = https://github.com/KAIST-220V/project-solar-see-frontend.git
 [submodule "machine_learning"]
 	path = machine_learning
-	url = https://github.com/KAIST-220V/Mask-RCNN_TF2.14.0.git
+	url = https://github.com/KAIST-220V/mask-rcnn.git
 [submodule "coordinate_converter"]
 	path = coordinate_converter
 	url = https://github.com/KAIST-220V/map-converter.git
