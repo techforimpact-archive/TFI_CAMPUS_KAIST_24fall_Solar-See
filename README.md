@@ -6,7 +6,7 @@
 - **태양광 패널 찾기 게임**  
   *유저의 게임 데이터를 기반으로 AI가 놓친 태양광 패널을 추가적으로 발견합니다.*  
 
-### 빠르게 시작하기
+### QuickStart
 모바일에서 **[Solar-See 바로가기](https://solar-see.site)**  
 QR 코드를 스캔하여 접속할 수 있습니다.  
 <img src="https://github.com/user-attachments/assets/5f1a69bf-6aa5-48fe-ace0-e10757c47aea" alt="QR Code" style="width:25%"/>
@@ -94,10 +94,10 @@ QR 코드를 스캔하여 접속할 수 있습니다.
 
 | 이름 | 소속 | 이메일 | Github ID | 역할 |
 |---------|------|--------|-----------|------|
-| 이중권 | EE, KAIST | 2jungg@kaist.ac.kr | 2jungg | 지도 패널 정보, 게임 인트로, 게임 플레이 기능 |
-| 김현수 | SoC, KAIST | skykhs3@kaist.ac.kr | skykhs3 | AI, YOLO11 기반 Image Segmentation 모델 학습,  RESTful API 설계, 데이터베이스 스키마 설계, DNS 설정, 항공사진 이미지 가공, Django RESTful API 서버 구현, Frontend 디자인 수정 및 버그 수정, Frontend CI/CD 구축, Frontend 배포, Backend 배포 |
-| 박은비 | SoC, KAIST | kelly030813@kaist.ac.kr | qkrdmsql | 지도 설계, 게임 클레임, API 통신, UX 개선 |
-| 유권우 | SoC, KAIST | rnjsdn1003@kaist.ac.kr | KingsFavor | - |
-| 이혜리 | SoC, KAIST | harriet@kaist.ac.kr | hye-ilee | 항공사진 수집, 지도 이동, 게임 채점 및 랭킹, UX 개선 |
-| 임채민 | SoC, KAIST | killerwhalee@kaist.ac.kr | [killerwhalee](https://github.com/killerwhalee) | AI, Mask-RCNN 기반 Image Segmentation 모델 학습, 학습 결과 데이터 수집 및 가공, 배포 환경 구축 및 설정, 서버 데이터 관리 |
-| 표승화 | ID, KAIST | shpyo@kaist.ac.kr | hu9eswan | 로고 제작, 모바일 UI, UX Writing, 발표 자료 제작 |
+| 이중권 | EE, KAIST | 2jungg@kaist.ac.kr | 2jungg | 프론트엔드 개발 |
+| 김현수 | SoC, KAIST | skykhs3@kaist.ac.kr | skykhs3 | 프론트엔드, 백엔드 개발 |
+| 박은비 | SoC, KAIST | kelly030813@kaist.ac.kr | qkrdmsql | 프론트엔드 개발 |
+| 유권우 | SoC, KAIST | rnjsdn1003@kaist.ac.kr | KingsFavor | 좌표변환기 개발 |
+| 이혜리 | SoC, KAIST | harriet@kaist.ac.kr | hye-ilee | 프론트엔드 개발 |
+| 임채민 | SoC, KAIST | killerwhalee@kaist.ac.kr | [killerwhalee](https://github.com/killerwhalee) | 백엔드 개발 |
+| 표승화 | ID, KAIST | shpyo@kaist.ac.kr | hu9eswan | UI/UX Writing, 발표 자료 제작 |
