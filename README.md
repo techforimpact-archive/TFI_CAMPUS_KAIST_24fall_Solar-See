@@ -63,7 +63,7 @@
 ---
 
 ## Demo Video 🎥  
-[데모 영상 보기](https://github.com/tech-for-impact/Solar-See_2024/raw/refs/heads/main/demo/1.mp4)
+[데모 영상 보기](https://github.com/tech-for-impact/Solar-See_2024/raw/refs/heads/main/demo/solar-see-demo-video.mp4)
 
 ---
 
@@ -168,7 +168,7 @@
 ---
 
 ## Demo Video 🎥  
-[Watch the Demo Video](https://github.com/tech-for-impact/Solar-See_2024/raw/refs/heads/main/demo/1.mp4)
+[Watch the Demo Video](https://github.com/tech-for-impact/Solar-See_2024/raw/refs/heads/main/demo/solar-see-demo-video.mp4)
 
 ---
 
