@@ -1,15 +1,10 @@
 # Solar-See 2024
 
-## Overview
+## 개요
 **Solar-See**는 비계량 태양광 패널을 발견하고, 이를 통해 전력 수요 예측의 정확도를 높이기 위해 개발된 AI 기반 게임 및 지도 서비스입니다.  
 - **비계량 태양광 패널 지도**  
 - **태양광 패널 찾기 게임**  
   *유저의 게임 데이터를 기반으로 AI가 놓친 태양광 패널을 추가적으로 발견합니다.*  
-
-### QuickStart
-모바일에서 **[Solar-See 바로가기](https://solar-see.site)**  
-QR 코드를 스캔하여 접속할 수 있습니다.  
-<img src="https://github.com/user-attachments/assets/5f1a69bf-6aa5-48fe-ace0-e10757c47aea" alt="QR Code" style="width:25%"/>
 
 ---
 
@@ -54,12 +49,14 @@ QR 코드를 스캔하여 접속할 수 있습니다.
 ### 실행 방법
 1. **모바일에서 접속**  
    - QR 코드를 스캔하거나 [solar-see.site](https://solar-see.site)로 접속하세요.  
-2. **소스 코드 클론**  
+  <img src="https://github.com/user-attachments/assets/5f1a69bf-6aa5-48fe-ace0-e10757c47aea" alt="QR Code" style="width:25%"/>
+
+1. **소스 코드 클론**  
    ```bash
    git clone --recurse-submodules https://github.com/tech-for-impact/Solar-See_2024.git
    cd frontend && git pull && cd ../backend && git pull && cd ..
    ```
-3. **설치**  
+2. **설치**  
    - 각 레포지토리의 설치 가이드를 참고하세요.  
 
 ---
@@ -94,10 +91,11 @@ QR 코드를 스캔하여 접속할 수 있습니다.
 
 | 이름 | 소속 | 이메일 | Github ID | 역할 |
 |---------|------|--------|-----------|------|
-| 이중권 | EE, KAIST | 2jungg@kaist.ac.kr | 2jungg | 프론트엔드 개발 |
-| 김현수 | SoC, KAIST | skykhs3@kaist.ac.kr | skykhs3 | 프론트엔드, 백엔드 개발 |
-| 박은비 | SoC, KAIST | kelly030813@kaist.ac.kr | qkrdmsql | 프론트엔드 개발 |
-| 유권우 | SoC, KAIST | rnjsdn1003@kaist.ac.kr | KingsFavor | 좌표변환기 개발 |
-| 이혜리 | SoC, KAIST | harriet@kaist.ac.kr | hye-ilee | 프론트엔드 개발 |
+| 이중권 | EE, KAIST | 2jungg@kaist.ac.kr | [2jungg](https://github.com/2jungg) | 프론트엔드 개발 |
+| 김현수 | SoC, KAIST | skykhs3@kaist.ac.kr | [skykhs3](https://github.com/skykhs3) | 프론트엔드, 백엔드 개발 |
+| 박은비 | SoC, KAIST | kelly030813@kaist.ac.kr | [qkrdmsql](https://github.com/qkrdmsql) | 프론트엔드 개발 |
+| 유권우 | SoC, KAIST | rnjsdn1003@kaist.ac.kr | [KingsFavor](https://github.com/KingsFavor) | 좌표변환기 개발 |
+| 이혜리 | SoC, KAIST | harriet@kaist.ac.kr | [hye-ilee](https://github.com/hye-ilee) | 프론트엔드 개발 |
 | 임채민 | SoC, KAIST | killerwhalee@kaist.ac.kr | [killerwhalee](https://github.com/killerwhalee) | 백엔드 개발 |
-| 표승화 | ID, KAIST | shpyo@kaist.ac.kr | hu9eswan | UI/UX Writing, 발표 자료 제작 |
+| 표승화 | ID, KAIST | shpyo@kaist.ac.kr | [hu9eswan](https://github.com/hu9eswan) | UI/UX Writing, 발표 자료 제작 |
+
