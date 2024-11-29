@@ -99,3 +99,108 @@
 | 이혜리      | SoC, KAIST | harriet@kaist.ac.kr  | [hye-ilee](https://github.com/hye-ilee) | 프론트엔드 개발          |  
 | 임채민      | SoC, KAIST | killerwhalee@kaist.ac.kr | [killerwhalee](https://github.com/killerwhalee) | 백엔드 개발              |  
 | 표승화      | ID, KAIST  | shpyo@kaist.ac.kr    | [hu9eswan](https://github.com/hu9eswan) | UI/UX Writing, 발표 자료 제작 |  
+
+<br>
+
+---
+
+# Solar-See 2024 (ENGLISH)
+
+## Overview 📝
+**Solar-See** is an AI-based game and mapping service developed to identify non-metered solar panels and improve the accuracy of power demand forecasting.  
+- **🗺️ Non-Metered Solar Panel Map**  
+- **🎮 Solar Panel Discovery Game**  
+  *AI uses user game data to find additional solar panels it may have missed.*  
+
+---
+
+## One-Line Solution Summary 🌞
+- **Solar Panel Discovery Game** to enhance AI's panel detection capability.
+
+---
+
+## Definition of Social Problems to Solve 🖋️
+
+1. 🌍 **Renewable energy is an essential energy source.**  
+   - It is necessary for sustainable development and reducing environmental pollution.  
+
+2. ⚡ **Power demand forecasting failures cause renewable energy plants to shut down.**  
+   - Fossil fuel and nuclear power plants are difficult to shut down, leading to renewable energy being sacrificed.  
+
+3. 🌤️ **Non-metered solar panels make power demand forecasting challenging.**  
+   - Non-metered solar generation accounts for 11% of peak power usage.  
+
+4. 💡 **Solar-See solves this issue by identifying non-metered solar panels.**  
+   - It aims to find all non-metered panels nationwide, enhancing power demand forecasting accuracy and supporting renewable energy expansion.  
+
+---
+
+## Solution Overview ⚡
+
+### 1. **📷 Solar Panel Detection Using Aerial Photos and AI**  
+   - Train AI with high-quality aerial photos instead of conventional satellite images.  
+
+### 2. **🗺️ Non-Metered Solar Panel Mapping Service**  
+   - Display solar panels detected by AI on a map.  
+
+### 3. **🤝 Crowdsourced Data Collection**  
+   - Collect user data through the discovery game to continuously improve AI accuracy.  
+
+### 4. **🌐 Expanding Awareness of Social Issues**  
+   - Engage users to generate ongoing discussions and propose solutions.  
+
+---
+
+## Installation and Execution 🚀
+
+### How to Run
+1. **📱 Access via Mobile**  
+   - Scan the QR code or visit [solar-see.site](https://solar-see.site).  
+   ![QR Code](https://github.com/user-attachments/assets/5f1a69bf-6aa5-48fe-ace0-e10757c47aea)  
+
+2. **💻 Clone the Source Code and Run Locally**  
+   ```bash
+   git clone --recurse-submodules https://github.com/tech-for-impact/Solar-See_2024.git
+   cd frontend && git pull && cd ../backend && git pull && cd ..
+   ```
+  - Refer to the installation guides in each repository.  
+
+---
+
+## Demo Video 🎥  
+[Watch the Demo Video](#)
+
+---
+
+## References 📚  
+
+### AI Development Resources  
+- [YOLO11 🚀 Official](https://docs.ultralytics.com/models/yolo11/)  
+- [Mask R-CNN (TensorFlow 2.14)](https://github.com/z-mahmud22/Mask-RCNN_TF2.14.0)  
+
+### Aerial Photos and Training Data Sources  
+- **📸 Aerial Photos:** National Geographic Information Institute  
+- **🗂️ Training Data:** [AIHub Solar Panel Dataset](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71348)  
+
+### Related Articles  
+- [📰 Chosun Ilbo: Challenges in Power Demand Forecasting](https://biz.chosun.com/policy/policy_sub/2023/08/14/3BSO4UXWRJB5LNNHYN6WCY3ODM/)  
+- [📰 Newsis: The Challenge of Renewable Energy](https://www.newsis.com/view/NISX20240814_0002850758)  
+- [📰 Kyunghyang Shinmun: The Non-Metered Solar Panel Problem](https://www.khan.co.kr/economy/industry-trade/article/202108042040015)  
+
+### Presentation Materials and Partner Organization  
+- **📊 Final Presentation Deck:** [Figma Deck](https://www.figma.com/deck/TuZtQY16UshgZwb02bLiwv)  
+- **🧑‍🤝‍🧑 Partner Organization:** [60Hz](https://60hz.io/)  
+
+---
+
+## Team Members 👥  
+
+| Name       | Affiliation  | Email                 | Github ID                          | Role                      |  
+|------------|--------------|-----------------------|------------------------------------|---------------------------|  
+| Junggwon Lee  | EE, KAIST    | 2jungg@kaist.ac.kr    | [2jungg](https://github.com/2jungg)  | Frontend Developer         |  
+| Hyeonsu Kim  | SoC, KAIST   | skykhs3@kaist.ac.kr   | [skykhs3](https://github.com/skykhs3) | Frontend, Backend Developer |  
+| Eunbi Park   | SoC, KAIST   | kelly030813@kaist.ac.kr | [qkrdmsql](https://github.com/qkrdmsql) | Frontend Developer         |  
+| Gwonwoo Yu   | SoC, KAIST   | rnjsdn1003@kaist.ac.kr | [KingsFavor](https://github.com/KingsFavor) | Coordinate Converter Developer |  
+| Hyeri Lee    | SoC, KAIST   | harriet@kaist.ac.kr   | [hye-ilee](https://github.com/hye-ilee) | Frontend Developer         |  
+| Chaemin Lim  | SoC, KAIST   | killerwhalee@kaist.ac.kr | [killerwhalee](https://github.com/killerwhalee) | Backend Developer          |  
+| Seunghwa Pyo | ID, KAIST    | shpyo@kaist.ac.kr     | [hu9eswan](https://github.com/hu9eswan) | UI/UX Writing, Presentation Design |  
