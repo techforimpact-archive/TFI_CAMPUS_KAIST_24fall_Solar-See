@@ -49,11 +49,15 @@
 ## 설치 및 실행방법 🚀
 
 ### 실행 방법
-1. **📱 모바일에서 접속**  
-   - QR 코드를 스캔하거나 [solar-see.site](https://solar-see.site)로 접속하세요.  
-   ![QR Code](https://github.com/user-attachments/assets/5f1a69bf-6aa5-48fe-ace0-e10757c47aea)  
+1. **📱 모바일에서 접속**
+   
+   (현재 서버는 내려가 있어, 데모 영상만 보실 수 있습니다.)
+   
+   ~~QR 코드를 스캔하거나 [solar-see.site](https://solar-see.site)로 접속하세요.~~
+   
+   ~~![QR Code](https://github.com/user-attachments/assets/5f1a69bf-6aa5-48fe-ace0-e10757c47aea)~~
 
-2. **💻 소스 코드 클론 후 로컬에서 실행**  
+3. **💻 소스 코드 클론 후 로컬에서 실행**  
    ```bash
    git clone --recurse-submodules https://github.com/tech-for-impact/Solar-See_2024.git
    cd frontend && git pull && cd ../backend && git pull && cd ..
